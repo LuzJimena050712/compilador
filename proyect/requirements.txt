@@ -1,5 +1,5 @@
 Django
-guinicorn
+gunicorn
 djangorestframework
 django-cors-headers
 antlr4-tools
